@@ -5,3 +5,5 @@ Author: Nagarajan
 3. Last seen code
 4. Attachments (Image, audio, video) code
 5. Hiding the last seen
+6. Adding audio call feature
+7. Adding Video call feature
